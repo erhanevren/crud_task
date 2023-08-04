@@ -1,0 +1,27 @@
+        body {font-family:'Lato',sans-serif;}
+        .title {padding:30px;}
+        h5 {font-weight:400;color:navy; margin-bottom:0; text-align: center;}
+        h6 {text-align: center;}
+        .text-bold {font-weight:700;}
+        .tab-pane {padding:5px 20px; border:1px solid #dee2e6; margin-top: 10px; border-radius:8px;}
+
+        .mark {color:#000; background: none; border-bottom:1px solid #dee2e6; margin:0 0 20px 0; padding:10px 0 25px 0;}
+        .form-control {border-top-left-radius: 0;}
+        label {margin-bottom: 0;padding: 2px 11px;font-size: 12px;}
+        label.styled {background: silver;font-weight:bold;display: inline-block;}
+        
+        .table {border-bottom: 1px solid #dee2e6;}
+        .table thead.thead-light th {color:#f80094; text-transform: uppercase;font-size:13px; }
+        
+        #dataTable_contactsList_wrapper .row{display:contents !important;}
+        .pagination>li>a {padding:10px;}
+
+        .dataTable > thead > tr > th[class*="sort"]:before,
+        .dataTable > thead > tr > th[class*="sort"]:after {
+            font-size:18px
+        }
+        #status_txt{
+            color:red;
+            font-weight:bold;
+            padding:8px
+        }
